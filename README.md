@@ -1,2 +1,2 @@
 # Exams
-Former exams that I used in my DHBW classes
+All former assignments I used in all classes I taught at DHBW
